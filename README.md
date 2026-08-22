@@ -26,7 +26,7 @@ Aqui no meu GitHub você vai encontrar os repositórios dos projetos que venho d
 
 Se quiser trocar uma ideia sobre programação, estudos ou colaborações, você pode me achar por aqui:
 
-* 💼 **LinkedIn:** ?
+* 💼 **LinkedIn:** https://www.linkedin.com/in/victoor-guimaraess
 * 📧 **E-mail:** victorguimaraeess3@gmail.com
 
 ---
